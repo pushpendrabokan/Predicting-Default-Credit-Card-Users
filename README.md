@@ -1,5 +1,5 @@
 ## Inspiration
-During my stay in Banglore while pursuing a Data Science course, I came across usage of app like 'SIMPL' and 'LazyPay' where Credits are given without any proper verification. Therefore I wanted to dive deeper into such usecases. But the problem associated with this problem was finding a dataset representing the scenario. With further research I found 'Taiwan Bank Credit Card Dataset' from UCI repository where a customer paying habits are observed for six months before considering him/her as default.
+I got to hear about one PPI Instrument Company, slice (slice credit cards) in my second year of college when I realised that this company was giving credits to students and young people who do not have any credit history. I questioned myself, how this company is able to generate profits and just like that how credit card companies are able to generate profits in such a risky market. I didn't had any answer of this at that time but later when I gained relevant skills I was able to get it through this project. 
 ## Insights from Exploratory Data Analysis
   
   * Around 24% of male customers and around 20.8% of female customers are defaulting, which suggests a customer being a male has more likelihood to default.
